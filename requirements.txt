@@ -1,0 +1,5 @@
+Django
+djangorestframework
+python-environ
+psycopg2
+django-filter
